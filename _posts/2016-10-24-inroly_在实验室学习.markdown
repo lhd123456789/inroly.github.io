@@ -4,6 +4,7 @@ title:  "沉迷学习"
 date:   2016/10/24 0:40:50
 categories: jekyll update
 tags: featured
+image:a2.qpic.cn/psb?/V103iWrD1BRaS4/rXYg431DPQMpxYA.PIHSbnAyRctK581iyV3JZ.ffbbY!/b/dAUBAAAAAAAA&ek=1&kp=1&pt=0&bo=vwDGAAAAAAAFAFo!&sce=60-2-2&rf=viewer_311
 ---
 # 收获 #
 ## 开心♥ ##
